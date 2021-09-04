@@ -24,8 +24,24 @@
     text-decoration: underline;
     cursor: pointer;
     margin-top: 10px;
+    color: white;
 }
 
 .button-link:hover {
     opacity: 0.6;
+}
+
+.secondary-button {
+    font-size: 13px;
+    background-color: #f39725;
+    padding: 5px 12px;
+    border-radius: 11px;
+    color: black;
+    cursor: pointer;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.secondary-button:hover {
+    background-color: #fab053;
 }

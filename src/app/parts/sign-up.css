@@ -21,3 +21,9 @@
 .sign-up-button:hover {
     background-color: #ff4343;
 }
+
+.bottom-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

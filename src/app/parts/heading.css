@@ -49,6 +49,7 @@
     height: 25px;
     display: flex;
     margin-right: 10px;
+    flex: 1 0 auto;
 }
 
 .map-tag-icon {
@@ -59,4 +60,5 @@
     height: 26px;
     display: flex;
     margin-right: 5px;
+    flex: 1 0 auto;
 }

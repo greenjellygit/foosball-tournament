@@ -1,0 +1,62 @@
+.heading {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.heading-title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 58px;
+}
+
+.red {
+    color: var(--color-omni);
+}
+
+.heading-details-container {
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+}
+
+.details-line {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.omnipack-logo {
+    width: 100px;
+    height: 100px;
+    background-image: url("../../assets/images/omnipack-logo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-bottom: 20px;
+    flex: 1 0 auto;
+}
+
+.calendar-icon {
+    background-image: url("../../assets/images/calendar.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 23px;
+    height: 25px;
+    display: flex;
+    margin-right: 10px;
+}
+
+.map-tag-icon {
+    background-image: url("../../assets/images/map_tag.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 24px;
+    height: 26px;
+    display: flex;
+    margin-right: 5px;
+}

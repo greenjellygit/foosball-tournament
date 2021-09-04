@@ -1,0 +1,21 @@
+.bottom-content {
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    line-height: 21px;
+    font-size: 14px;
+}
+
+.we-provide-section {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.we-provide-section > :first-child {
+    margin-bottom: 5px;
+}

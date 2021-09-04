@@ -1,0 +1,23 @@
+.time-to-start-text {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.timer-container {
+    margin-top: 50px;
+}
+
+.flip-countdown-piece {
+    margin: 0 6px !important;
+}
+
+.flip-countdown-card-sec {
+    margin: 0 2px !important;
+}
+
+.flip-countdown-title {
+    padding-top: 8px;
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px !important;
+}

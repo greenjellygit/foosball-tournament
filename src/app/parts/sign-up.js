@@ -7,7 +7,8 @@ export function SignUp() {
       <div className="bottom-buttons">
         <a className="secondary-button"
            href="https://challonge.com/pl/t12zlvxc"
-           target="_blank">
+           target="_blank"
+           rel="noreferrer">
           Tabela turniejowa
         </a>
         <div className="button-link">Regulamin rozgrywek</div>

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foosball-tournament/static/css/main.4a9fcfbc.chunk.css",
+    "main.css": "/foosball-tournament/static/css/main.23b2d8bd.chunk.css",
     "main.js": "/foosball-tournament/static/js/main.9cf5453b.chunk.js",
     "main.js.map": "/foosball-tournament/static/js/main.9cf5453b.chunk.js.map",
     "runtime-main.js": "/foosball-tournament/static/js/runtime-main.a44be093.js",
@@ -10,15 +10,15 @@
     "static/js/3.768a0cb2.chunk.js": "/foosball-tournament/static/js/3.768a0cb2.chunk.js",
     "static/js/3.768a0cb2.chunk.js.map": "/foosball-tournament/static/js/3.768a0cb2.chunk.js.map",
     "index.html": "/foosball-tournament/index.html",
-    "static/css/main.4a9fcfbc.chunk.css.map": "/foosball-tournament/static/css/main.4a9fcfbc.chunk.css.map",
+    "static/css/main.23b2d8bd.chunk.css.map": "/foosball-tournament/static/css/main.23b2d8bd.chunk.css.map",
     "static/js/2.3e58932f.chunk.js.LICENSE.txt": "/foosball-tournament/static/js/2.3e58932f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/foosball-tournament/static/media/background.f01a2ba4.jpg",
+    "static/media/index.css": "/foosball-tournament/static/media/background.26ec5466.jpg",
     "static/media/heading.css": "/foosball-tournament/static/media/map_tag.3d8dd702.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a44be093.js",
     "static/js/2.3e58932f.chunk.js",
-    "static/css/main.4a9fcfbc.chunk.css",
+    "static/css/main.23b2d8bd.chunk.css",
     "static/js/main.9cf5453b.chunk.js"
   ]
 }

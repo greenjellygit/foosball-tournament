@@ -5,8 +5,8 @@ export function BottomContent() {
     <div className="bottom-content">
       <div className="body">
         <div>
-          Serdecznie zapraszamy na turniej piłkarzyków stołowych, który odbędzie się 25 września o godzinie
-          18:00 w biurze Omnipack.
+          Serdecznie zapraszamy na turniej piłkarzyków stołowych, który odbędzie się 30 września o godzinie
+          17:00 w biurze Omnipack.
           Weź udział w zabawie jeśli jesteś amatorem, profesjonalistą lub po prostu chcesz pokibicować.
         </div>
         <div className="we-provide-section">
@@ -25,7 +25,11 @@ export function BottomContent() {
               <span className="red">●</span> puchar Mistrzów Omnipack dla zwycięzców
             </div>
           </div>
-          <div className="button-link">Kontakt</div>
+          <div className="contact-form">
+            <div>Kontakt: </div>
+            <div>edyta.malesa@omnipack.com</div>
+            <div>krzysztof.antczak@omnipack.com</div>
+          </div>
         </div>
       </div>
     </div>

@@ -10,7 +10,7 @@ export function Heading() {
       <div className="heading-details-container">
         <div className="details-line">
           <span className="calendar-icon"/>
-          <span>2021-09-25, 18:00</span>
+          <span>2021-09-30, 17:00</span>
         </div>
         <div className="details-line">
           <span className="map-tag-icon"/>

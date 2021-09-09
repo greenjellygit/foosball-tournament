@@ -1,9 +1,13 @@
 import './sign-up.css';
+import Rules from '../../assets/regulamin_turnieju.pdf'
 
 export function SignUp() {
   return (
     <div className="sing-up">
-      <div className="sign-up-button">Zgłoś drużynę</div>
+      <a className="sign-up-button"
+         href="https://docs.google.com/spreadsheets/d/11xdiFehWg4WhMSg62Fc9fr05dn7u_BkuQbIAbIb32Ic/edit?pli=1#gid=0"
+         target="_blank"
+         rel="noreferrer">Zgłoś drużynę</a>
       <div className="bottom-buttons">
         <a className="secondary-button"
            href="https://challonge.com/pl/t12zlvxc"
@@ -11,7 +15,10 @@ export function SignUp() {
            rel="noreferrer">
           Tabela turniejowa
         </a>
-        <div className="button-link">Regulamin rozgrywek</div>
+        <a className="button-link"
+           href={Rules}
+           target="_blank"
+           rel="noopener noreferrer">Regulamin rozgrywek</a>
       </div>
     </div>
   );

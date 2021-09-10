@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/foosball-tournament/static/css/main.b408c343.chunk.css",
-    "main.js": "/foosball-tournament/static/js/main.6818dea0.chunk.js",
-    "main.js.map": "/foosball-tournament/static/js/main.6818dea0.chunk.js.map",
+    "main.js": "/foosball-tournament/static/js/main.53eb144d.chunk.js",
+    "main.js.map": "/foosball-tournament/static/js/main.53eb144d.chunk.js.map",
     "runtime-main.js": "/foosball-tournament/static/js/runtime-main.a44be093.js",
     "runtime-main.js.map": "/foosball-tournament/static/js/runtime-main.a44be093.js.map",
     "static/js/2.3e58932f.chunk.js": "/foosball-tournament/static/js/2.3e58932f.chunk.js",
@@ -14,12 +14,12 @@
     "static/js/2.3e58932f.chunk.js.LICENSE.txt": "/foosball-tournament/static/js/2.3e58932f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/foosball-tournament/static/media/background.26ec5466.jpg",
     "static/media/heading.css": "/foosball-tournament/static/media/map_tag.3d8dd702.svg",
-    "static/media/regulamin_turnieju.2aefaa5c.pdf": "/foosball-tournament/static/media/regulamin_turnieju.2aefaa5c.pdf"
+    "static/media/regulamin_turnieju.6d386da7.pdf": "/foosball-tournament/static/media/regulamin_turnieju.6d386da7.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.a44be093.js",
     "static/js/2.3e58932f.chunk.js",
     "static/css/main.b408c343.chunk.css",
-    "static/js/main.6818dea0.chunk.js"
+    "static/js/main.53eb144d.chunk.js"
   ]
 }

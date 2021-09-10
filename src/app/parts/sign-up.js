@@ -10,7 +10,7 @@ export function SignUp() {
          rel="noreferrer">Zgłoś drużynę</a>
       <div className="bottom-buttons">
         <a className="secondary-button"
-           href="https://challonge.com/pl/t12zlvxc"
+           href="https://challonge.com/pl/1zy318tv"
            target="_blank"
            rel="noreferrer">
           Tabela turniejowa
